@@ -2,7 +2,7 @@
 
 HelloWorld Servlet example with corresponding Dockerfile - added line - jenkins testing
 
-Use Maven Build first to create war file in Target folder.
+Use Maven Build first to create war file in Target folder.   - Jenkins Lab testing
 
 mvn clean package
 
